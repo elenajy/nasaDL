@@ -13,3 +13,7 @@ Elena: work on image API
 
 In one week: run on diff parameters
 In two weeks: recovene + reevaluate
+
+
+**10/14/2024**
+lorraine: fix function for model, ETF & correlation matrix
