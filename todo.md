@@ -1,5 +1,5 @@
 - [X] fix function for model
 - [ ] rework function to use kwargs
-- [ ] correlation matrix
-- [ ] fix sdss17 dataset distribiton
+- [x] correlation matrix
+- [x] fix sdss17 dataset distribiton
 - [ ] :tada:
